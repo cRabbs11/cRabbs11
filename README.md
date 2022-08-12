@@ -78,4 +78,4 @@
 ## Контакты
 Telegram: https://t.me/EvgeniyKochkov
 WhatsApp: +7 (917) 516-77-80
-email: cRabbs100@gmail.com
+Email: cRabbs100@gmail.com
