@@ -16,6 +16,7 @@
 13. RxJava
 14. Coroutines
 15. Material Design
+16. Custom View
 
 ### Инструменты:
 1. Android SDK
