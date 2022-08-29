@@ -17,6 +17,7 @@
 14. Coroutines
 15. Material Design
 16. Custom View
+17. Android Architecture Components
 
 ### Инструменты:
 1. Android SDK
